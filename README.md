@@ -79,11 +79,3 @@ GitBook 地址：https://bypass007.github.io/Emergency-Response-Notes/
   * 第7篇：网站首页被篡改
   
   * 第8篇：管理员账号被篡改
-
-------
-
-### 学习交流
-
-后续持续更新内容，将发布在公众号Bypass--，同时公众号提供了该项目的PDF版本，关注后回复"应急响应" 即可下载。
-
-![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-erweima.jpg)
